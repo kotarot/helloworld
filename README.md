@@ -1,2 +1,2 @@
-"Hello, xxx world!" in various language.
+Output "Hello, xxx world!" on the console in various languages.
 
