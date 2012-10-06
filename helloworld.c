@@ -1,7 +1,7 @@
 /*
  * Filename: helloworld.c
  * Language: C
- * Compiler: gcc 4.6.3
+ * Compiler: gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
  */
 
 #include <stdio.h>
