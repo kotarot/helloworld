@@ -1,7 +1,7 @@
 /*
  * Filename: helloworld.cpp
  * Language: C++
- * Compiler: 4.6.3
+ * Compiler: g++ (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
  */
 
 #include <iostream>
